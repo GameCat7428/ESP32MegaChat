@@ -1,4 +1,4 @@
-# ESP32MegaChat
+# CatMegaChat
 This repo is about ESP32MegaChat Project ¯\_(ツ)_/¯
 Now you can chat trough ESP32 Devices!
 For that you'll need a sever with server firmware package from releases and at least two devicesю 
