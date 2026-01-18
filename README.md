@@ -1,7 +1,7 @@
-# CatMegaChat
+# ESP32MegaChat
 This repo is about ESP32MegaChat Project ¯\_(ツ)_/¯
 Now you can chat trough ESP32 Devices!
-For that you'll need a sever with server firmware package from releases and at least two devicesю 
+For that you'll need a server with server firmware package from releases/Raspberry Pi with python code and at least two devices 
 Firmwares for devices are also in releases :)
 How does it work?
 Theres a server device: for example Raspberry PI (Recommended for many users)
